@@ -47,13 +47,13 @@ Attendance-System/
 This is a collaborative group project by passionate undergraduates from LNCT College, addressing real-world energy forecasting challenges using ML.
 
 - Nitish Kumar 
--- GitHub: https://github.com/nitishkumar1407
+-- Linkedin:https://www.linkedin.com/in/nitish07kumar/
   
 - Haripriya Mahajan 
--- GitHub: https://github.com/Haripriya-Mahajan
+-- Linkedin:https://www.linkedin.com/in/haripriya-mahajan/
 
 - Aditya Garg 
--- GitHub: https://github.com/Adiigarg07
+-- Linkedin:https://www.linkedin.com/in/adityagarg3434/
 
 - Mahi Yadav
--- Github:
+-- Linkedin:https://www.linkedin.com/in/mahi-yadav-8028992a9/
