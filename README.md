@@ -46,6 +46,6 @@ Attendance-System/
 ## 👨‍💻 Developed By:
 - Nitish Kumar  
 - Mahi Yadav  
-- HariPriya Mahajan  
+- Haripriya Mahajan  
 - Aditya Garg
 
