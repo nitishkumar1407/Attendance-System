@@ -22,10 +22,11 @@ This project is a simple Attendance Management System developed using Python (Tk
 ```bash
 git clone https://github.com/nitishkumar1407/Attendance-System.git
 cd Attendance-System
-
+---
 
 ## Install Required Package:
 pip install mysql-connector-python
+---
 ## 📁 Folder Structure:
 Attendance-System/
 ├── main.py
@@ -33,10 +34,11 @@ Attendance-System/
 ├── ui.py
 ├── attendance.sql
 ├── README.md
+---
 ## 📌 Developed By:
 Nitish kumar
 Mahi yadav
 HariPriya Mahajan
 Aditya Garg
-
+---
 
