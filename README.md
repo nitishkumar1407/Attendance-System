@@ -48,5 +48,4 @@ Attendance-System/
 - Mahi Yadav  
 - HariPriya Mahajan  
 - Aditya Garg
--
 
